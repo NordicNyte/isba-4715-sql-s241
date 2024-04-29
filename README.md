@@ -1,10 +1,10 @@
-# Project Overview: Competitive Analysis in Medicare Advantage Market
+# Project Overview: Competitive Analysis in Healthcare Exchnge Market
 
 ## Project Objective
-The objective of this project is to conduct a competitive analysis of Medicare Advantage plans to identify market trends with the goal of creating competitive advantages early.
+The objective of this project is to conduct a competitive analysis of Healthcare plans to identify market trends with the goal of creating competitive advantages early.
 
 ### What problem are you solving?
-Actuarial data is a primary driver for pricing within the healthcare industry, particularly in Medicare Advantage plans. Pricing is a significant point of competition, and leveraging data effectively can provide a competitive edge.
+Actuarial data is a primary driver for pricing within the healthcare industry, particularly in Heathcare plans. Pricing is a significant point of competition, and leveraging data effectively can provide a competitive edge.
 
 ### How are you solving this problem?
 The solution involves conducting a comprehensive analysis of Medicare Advantage plans to gather insights into pricing, benefits, and coverage. This analysis includes data from CMS Marketplace API and web scraping of Finder.healthcare.gov.
